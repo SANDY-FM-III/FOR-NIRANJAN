@@ -57,7 +57,7 @@ MELCOW_IMG = environ.get('MELCOW_IMG',"https://telegra.ph/file/25c2ee07b3638d200
 MELCOW_VID = environ.get('MELCOW_VID',"https://telegra.ph/file/b04dd068fc8e2c2235f8d.mp4")
 
 
-
+@Client.on_message(filters.group & filters.text & filters.incoming)
 # Admins, Channels & Users
 ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '').split()]
 CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '0').split()]
