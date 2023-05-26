@@ -299,9 +299,11 @@ Name - {}
 ╔════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╗
 ▫️<a href=https://t.me/Movies_adda24_7> ᴄʜᴀɴɴᴇʟ </a>
 
-▫️<a href=Request group
-https://t.me/+6W9QAcQIWzU3YmQ1>ʀᴇǫᴜᴇsᴛ ɢʀᴏᴜᴘ</a>
+▫️<a href=https://t.me/+6W9QAcQIWzU3YmQ1>ʀᴇǫᴜᴇsᴛ ɢʀᴏᴜᴘ</a>
 ╚════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╝</b>"""
+
+
+
 
     RESTART_TXT = """
 <b>Bᴏᴛ Rᴇsᴛᴀʀᴛᴇᴅ !
