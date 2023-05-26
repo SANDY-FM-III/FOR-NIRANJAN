@@ -9,9 +9,9 @@ class script(object):
 # ⚠️ Please don't change our credits 𝚃𝙷𝙰𝙽𝙺𝚂 𝚃𝙾 & 𝙳𝙴𝚅 👇🏻
 
     ABOUT_TXT = """<b>✯ ᴍʏ ɴᴀᴍᴇ: {}
-✯ ʟᴏᴠᴇ❤: <a href=https://t.me/Syrus_143_hpy>❤</a>
+✯ ʟᴏᴠᴇ: <a href=https://t.me/Syrus_143_hpy>❤</a>
 ✯ ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ: <a href=https://t.me/Movies_adda24_7>ᴍᴏᴠɪᴇs ᴀᴅᴅᴀ 𝟸𝟺/𝟽</a>
-✯ ᴍʏ ʜᴜsʙᴀɴᴅ: <a href=https://t.me/Niranjan72>亗 NIRANJAN <\a>
+✯ ᴍʏ ʜᴜsʙᴀɴᴅ: <a href=https://t.me/Niranjan72>亗 NIRANJAN </a>
 ✯ ʟɪʙʀᴀʀʏ: ᴘʏʀᴏɢʀᴀᴍ 
 ✯ ʟᴀɴɢᴜᴀɢᴇ: ᴘʏᴛʜᴏɴ 𝟹
 ✯ ᴅᴀᴛᴀʙᴀsᴇ: ᴍᴏɴɢᴏᴅʙ
